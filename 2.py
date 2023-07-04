@@ -21,7 +21,7 @@ gas_price = 200000
 gas_limit = 21000
 chain_id = 1254
 
-transaction = {'nonce': 10, 'gasPrice': 15805, 'gas': 21000, 'to': '0x2392bAE123ECd96eE997Be6BFA43d9AE98039BDC', 'value': 1000000000000, 'data': b''}
+transaction = {'nonce': 12, 'gasPrice': 15805, 'gas': 21000, 'to': '0x2392bAE123ECd96eE997Be6BFA43d9AE98039BDC', 'value': 1000000, 'data': b''}
 
 # value = w3.to_wei(0.000001, 'ether')  # 0.1 Ether
 # to_address = '0x2392bAE123ECd96eE997Be6BFA43d9AE98039BDC'
