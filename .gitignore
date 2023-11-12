@@ -1,2 +1,3 @@
 pro/
 __pycache__
+.gitignore
