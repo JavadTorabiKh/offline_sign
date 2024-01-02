@@ -15,5 +15,5 @@ Each transaction in the Ethereum blockchain includes:
 ## Running
 
 1. Set the variables
-2. Run the signature python file
+2. Run the sign python file
 
